@@ -68,7 +68,14 @@ body {
   color: var(--font-main);
   /* width: 1600px; */
 }
-
+.backdrop {
+  /* position: fixed;
+  top: 0;
+  left: 0;
+  width: 1600px;
+  height: 1600px;
+  background-color: background: rgba(0, 0, 0, 0.2);; */
+}
 /* ----------HEADER---------- */
 
 .header-box {
